@@ -2,7 +2,7 @@
 
 # Steps to Reproduce the results
 
-### 1. Install necesssary libraries mentioned in 01_Dream_Booth_Dog_model_training.ipynb and follow the notebook to train dream booth model for the specific dog. Note For the specific dog instance dataset, use the images curated in the dataset Dataset\Specific_Dog_Images_dataset folder for training.
+## 1. Install necesssary libraries mentioned in 01_Dream_Booth_Dog_model_training.ipynb and follow the notebook to train dream booth model for the specific dog. Note For the specific dog instance dataset, use the images curated in the dataset Dataset\Specific_Dog_Images_dataset folder for training.
 
 # 2. The image dataset I made for that specific dog are as shown below (just used image outpainting and background change to create a variety) :
 
@@ -24,7 +24,7 @@ In Painting Model : https://huggingface.co/runwayml/stable-diffusion-inpainting/
 Stable Diffusion 1.5 model : https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt?download=true <br>
 Custom Dream booth Dog model : https://drive.google.com/file/d/1EEAb9r0oVJ_FyQ550F5AdiP8-BZHItmr/view?usp=sharing <br>
  
-# 3. Now Start the Comfy UI workflow with final_workflow.json as shown below:
+# 3. Now Start the Comfy UI workflow with final_workflow.json as shown below (use correct model paths):
 
 <img src="workflow_image.png" width="750" />
 
