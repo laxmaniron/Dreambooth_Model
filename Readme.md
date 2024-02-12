@@ -1,6 +1,8 @@
+# Stable Diffusion Custom Dream booth Inpainting Model
+
 # Steps to Reproduce the results
 
-# 1. Install necesssary libraries mentioned in 01_Dream_Booth_Dog_model_training.ipynb and follow the notebook to train dream booth model for the specific dog. Note For the specific dog instance dataset, use the images curated in the dataset Dataset\Specific_Dog_Images_dataset folder for training.
+### 1. Install necesssary libraries mentioned in 01_Dream_Booth_Dog_model_training.ipynb and follow the notebook to train dream booth model for the specific dog. Note For the specific dog instance dataset, use the images curated in the dataset Dataset\Specific_Dog_Images_dataset folder for training.
 
 # 2. The image dataset I made for that specific dog are as shown below (just used image outpainting and background change to create a variety) :
 
